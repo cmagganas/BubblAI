@@ -3,7 +3,7 @@
 
 Use LLMs to perform data cleaning tasks
 
-### Keys for LLM Ops project8
+### Keys for LLM Ops project
 * simple (one thing well)
 * deploy -> maintain -> monitor #production experience
 * Open Source Stack + webpage to host
