@@ -13,6 +13,8 @@ Use LLMs to perform data cleaning tasks
 ### Find Datasets with Dirty and Clean labels to evaluate performance of models/techniques
 * [CleanML](https://github.com/chu-data-lab/CleanML)
 * [OpenRefine](https://openrefine.org/)
+
+* [Kaggle Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor)
   
 ### Resources
 
